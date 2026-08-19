@@ -1,5 +1,7 @@
 import random
 
+from patient import Patient
+
 input("Stroke Alert Simulator, Press enter to continue")
 
 inGame = True
